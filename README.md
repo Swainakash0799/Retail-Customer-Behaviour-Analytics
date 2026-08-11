@@ -90,8 +90,9 @@ Retail-Customer-Behaviour-Analytics
 ├── retail_customer_behaviour_analysis.ipynb
 ├── retail_customer_behaviour_analysis.sql
 ├── retail_customer_behaviour_dashboard.pbix
-├── retail_customer_shopping_behaviour.csv
-├── README.md
+├── retail_customer_shopping_behaviour.csv(raw file taken from kaggle)
+├──customer.csv(cleaned file used for analysis)
+└──README.md
 ```
 
 ---

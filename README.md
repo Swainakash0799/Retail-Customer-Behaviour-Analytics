@@ -118,13 +118,13 @@ The project answers several real-world business questions including:
 
 The interactive Power BI dashboard includes:
 
-- 📌 KPI Cards
-- 💰 Revenue Analysis
-- 🛍️ Sales by Category
-- 👥 Customer Segmentation
-- 📊 Revenue by Age Group
-- 📦 Subscription Analysis
-- 🎯 Dynamic Filters
+- KPI Cards
+- Revenue Analysis
+- Sales by Category
+- Customer Segmentation
+- Revenue by Age Group
+- Subscription Analysis
+- Dynamic Filters
 
 ---
 
@@ -157,5 +157,3 @@ The interactive Power BI dashboard includes:
 # 👨‍💻 Author
 
 **Akash Swain**
-
-AI Engineer | Data Analyst | Generative AI Enthusiast
